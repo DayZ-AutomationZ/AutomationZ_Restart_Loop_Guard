@@ -50,8 +50,8 @@ Together they form a complete server administration solution.
 
 AutomationZ tools are built for server owners by a server owner.  
 If these tools save you time or help your community, consider supporting development.
-It does **not** monitor remote processes or servers by itself.
 
----
+☕ Support me [Ko-fi](https://ko-fi.com/dannyvandenbrande) 
 
-
+Created by **Danny van den Brande**  
+DayZ AutomationZ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R51QD7BU)
