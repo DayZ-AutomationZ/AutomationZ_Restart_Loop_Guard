@@ -28,6 +28,9 @@ Typical use cases:
 - Admin/control machine that triggers restarts (SSH, scripts, schedulers)
 - AutomationZ OS or standalone AutomationZ tools
 
+## Optional Discord Notifications
+[![Automation-Z-Restart-Loop-Guard-Discord.png](https://i.postimg.cc/5ytyS9G3/Automation-Z-Restart-Loop-Guard-Discord.png)](https://postimg.cc/vgpGQyGg)
+
 ## Credits
 
 ---
