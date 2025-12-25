@@ -1,4 +1,4 @@
-# AutomationZ Restart Loop Guard (UI)
+# AutomationZ Restart Loop Guard 
 
 AutomationZ Restart Loop Guard is a lightweight admin UI tool that prevents **infinite restart loops** by guarding restart/start attempts on the local machine.
 
